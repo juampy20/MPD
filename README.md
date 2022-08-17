@@ -105,6 +105,8 @@ https://wisp.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GGsnT8OYxqU/UJv5NAiymbI/AAAAAAAAXMo/3iytiCwX69s/s1600/isat.jpg" group-title="(CINE)" , ISAT
 https://wisp.cdn.rcs.net.ar/mnp/isat/output.mpd
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/w480/Cinemax.png" group-title="(CINE)" , CINEMAX
+https://wisp.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
 
 
