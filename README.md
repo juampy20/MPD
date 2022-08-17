@@ -127,8 +127,17 @@ https://wisp.cdn.rcs.net.ar/mnp/nickjr/output.mpd
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20191030175859" group-title="(COCINA/ESTILO)" , Gourmet
 https://wisp.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+
+
+
+
+
 
 
 
@@ -148,8 +157,16 @@ https://wisp.cdn.rcs.net.ar/mnp/cm/output.mpd
 
 
 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AKJv6tpx21Y/YaW2ulCEozI/AAAAAAAAAUs/wdSEAvOKu5kEOe_Umx52DedSIwGSt7PqQCLcBGAsYHQ/w480/ver-discovery-channel-hd-en-vivo-television-libre.png" group-title="(DOCUMENTAL)" , DISCOVERY
 https://wisp.cdn.rcs.net.ar/mnp/discovery/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mK0i3ykdm64/YsWuUjXHWBI/AAAAAAAAAnU/f33MQd-PX_g5cSgF3ob_GXON4bJ-lGQtgCNcBGAsYHQ/w480/ver-trutv-hd-en-vivo.jpg" group-title="(DOCUMENTAL)" , TRU TV
+https://wisp.cdn.rcs.net.ar/mnp/trutv/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Liugr9oW0N8/YfxgBg8Sc9I/AAAAAAAAAWw/rkP5fEKkLJIUcvdkkVv00NO5ixrrdi44wCNcBGAsYHQ/w480/ver-history-channel-2-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY 2
+
+
 
 
 
