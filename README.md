@@ -108,6 +108,25 @@ https://wisp.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1 tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/TOC.jpg" group-title="(INFANTIL)" , TOONCAST
 https://wisp.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="(INFANTIL)" , NICK
+https://wisp.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Nick_jr_logo.png" group-title="(INFANTIL)" , NICK JR
+https://wisp.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20191030175859" group-title="(COCINA/ESTILO)" , Gourmet
+https://wisp.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/98602-MTVlogo.jpg?w=400&dpr=2.6" group-title="(MUSICA)" , MTV
+https://wisp.cdn.rcs.net.ar/mnp/mtv/output.mpd
+
+
 
 
 
