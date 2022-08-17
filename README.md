@@ -108,6 +108,15 @@ https://wisp.cdn.rcs.net.ar/mnp/isat/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/w480/Cinemax.png" group-title="(CINE)" , CINEMAX
 https://wisp.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DRmD9dsKTi0/Ys9XhEvF5uI/AAAAAAAAAqM/NSP5eDAuKuAbbcfdah2I4rVpOvdSWahywCNcBGAsYHQ/w480/ver-tbs-en-vivo.jpg" group-title="(CINE)" , TBS
+https://wisp.cdn.rcs.net.ar/mnp/tbs/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Riqq0wkw9UY/YT5RS6UxToI/AAAAAAAAAOQ/yfkgOB2YSOc_-xEiyvrq96QSYBgcQD8WACLcBGAsYHQ/w480/TCM.png" group-title="(CINE)" , TCM 
+https://wisp.cdn.rcs.net.ar/mnp/tcm/output.mpd
+
+
+
+
 
 
 
