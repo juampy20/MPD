@@ -83,6 +83,30 @@ https://wisp.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="(CINE)" , SONY
 https://wisp.cdn.rcs.net.ar/mnp/sony/output.mpd
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/ab/54/4bab54bc7bad8e728654032c5c817154.png" group-title="(CINE)" , CINECANAL
+https://wisp.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoTBiH5qGQESsTVBi7BXeGs1YT1jnxfz3yR7PMJRjaNajMWwczKRls1dT4yQ4i3Moypg&usqp=CAU" group-title="(CINE)" , HBO
+https://wisp.cdn.rcs.net.ar/mnp/hbo/output.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png" group-title="(CINE)" , HBO 2
+https://wisp.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GGsnT8OYxqU/UJv5NAiymbI/AAAAAAAAXMo/3iytiCwX69s/s1600/isat.jpg" group-title="(CINE)" , ISAT
+https://wisp.cdn.rcs.net.ar/mnp/isat/output.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY
+https://wisp.cdn.rcs.net.ar/mnp/disney/output.mpd
+
+#EXTINF:-1 tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/TOC.jpg" group-title="(INFANTIL)" , TOONCAST
+https://wisp.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
 
 
