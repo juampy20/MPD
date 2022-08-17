@@ -126,7 +126,11 @@ https://wisp.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/98602-MTVlogo.jpg?w=400&dpr=2.6" group-title="(MUSICA)" , MTV
 https://wisp.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/738838081122541568/Xly8mKUw_400x400.jpg" group-title="(MUSICA)", HTV
+https://wisp.cdn.rcs.net.ar/mnp/htv/output.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="(MUSICA)", CM
+https://wisp.cdn.rcs.net.ar/mnp/cm/output.mpd
 
 
 
