@@ -143,6 +143,9 @@ https://wisp.cdn.rcs.net.ar/mnp/nickjr/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/w480/ver-disney-junior.png" group-title="(INFANTIL)" , DISNEY JR
 https://wisp.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/w480/ver-boomerang-en-vivo.png" group-title="(INFANTIL)" , BOOMERANG
+https://wisp.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+
 
 
 
@@ -151,6 +154,9 @@ https://wisp.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20191030175859" group-title="(COCINA/ESTILO)" , Gourmet
 https://wisp.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F2BnsazA7os/Ys31hnU_n3I/AAAAAAAAApQ/0MXv4sr5nusxWpjqfA0hm_aZj8GBqD1gACNcBGAsYHQ/w480/ver-mas-chic-en-vivo.jpg" group-title="(COCINA/ESTILO)" , MAS CHIC
+https://wisp.cdn.rcs.net.ar/mnp/maschic/output.mpd
 
 
 
