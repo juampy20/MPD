@@ -53,6 +53,16 @@ https://wisp.cdn.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium
 https://wisp.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.adobomagazine.com/wp-content/uploads/2018/01/fox_sports_563.jpg?fit=563%2C296&ssl=1" group-title="(DEPORTES)" , FOX SPORTS
+https://wisp.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qFsYZaIjozo/YT5Mwq2o6FI/AAAAAAAAANQ/rQxMUo7-REozgCIiOzVakG8Ia2C5bCb-wCLcBGAsYHQ/w480/Fox_Sports_2.png" group-title="(DEPORTES)" , FOX SPORTS 2
+https://wisp.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uNJcLj_R08s/Yf_LGMRS9gI/AAAAAAAAAXY/_V9xKblQkWMkuCniuSVVEu067qmHq9pzwCNcBGAsYHQ/w480/ver-fox-sports-3-en-vivo.jpg" group-title="(DEPORTES)" , FOX SPORTS 3
+https://wisp.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+
+
 
 
 
@@ -131,6 +141,20 @@ https://wisp.cdn.rcs.net.ar/mnp/htv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="(MUSICA)", CM
 https://wisp.cdn.rcs.net.ar/mnp/cm/output.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AKJv6tpx21Y/YaW2ulCEozI/AAAAAAAAAUs/wdSEAvOKu5kEOe_Umx52DedSIwGSt7PqQCLcBGAsYHQ/w480/ver-discovery-channel-hd-en-vivo-television-libre.png" group-title="(DOCUMENTAL)" , DISCOVERY
+https://wisp.cdn.rcs.net.ar/mnp/discovery/output.mpd
+
+
+
+
+
 
 
 
