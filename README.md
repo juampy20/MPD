@@ -96,7 +96,7 @@ https://wisp.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/ab/54/4bab54bc7bad8e728654032c5c817154.png" group-title="(CINE)" , CINECANAL
 https://wisp.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoTBiH5qGQESsTVBi7BXeGs1YT1jnxfz3yR7PMJRjaNajMWwczKRls1dT4yQ4i3Moypg&usqp=CAU" group-title="(CINE)" , HBO
+#EXTINF:-1 tvg-logo="https://media-exp2.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2147483647&v=beta&t=jIwFx63mao3NBPEYBn-_hS--cPrx5bT5h0jUL6jlAto" group-title="(CINE)" , HBO
 https://wisp.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png" group-title="(CINE)" , HBO 2
