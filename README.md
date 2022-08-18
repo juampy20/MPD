@@ -18,6 +18,21 @@ https://wisp.cdn.rcs.net.ar/mnp/canal26/output.mpd
 #EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="(NOTICIAS)" , CNN
 https://wisp.cdn.rcs.net.ar/mnp/cnn/output.mpd
 
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="(NOTICIAS)", TELESUR  25.4
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8  
+
+#EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="(NOTICIAS)", RT  25.5
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="(NOTICIAS)", IP  24.5
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="(NOTICIAS)", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148265181090320384/f9ieXgQL_400x400.png" group-title="(NOTICIAS)", 24 HORAS ESPAÑA
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 
 
 
@@ -260,6 +275,9 @@ https://wisp.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Liugr9oW0N8/YfxgBg8Sc9I/AAAAAAAAAWw/rkP5fEKkLJIUcvdkkVv00NO5ixrrdi44wCNcBGAsYHQ/w480/ver-history-channel-2-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY 2
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
 
 
 
@@ -269,6 +287,9 @@ https://wisp.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="(INTERES GRAL)" , IP
 https://wisp.cdn.rcs.net.ar/mnp/ip/output.mpd
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="(INTERES GRAL)", GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1721038751_b1296000_sleng.m3u8
 
 
 
