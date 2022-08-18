@@ -207,7 +207,7 @@ https://wisp.cdn.rcs.net.ar/mnp/trutv/output.mpd
 #EXTINF:-1 tvg-logo="https://i0.wp.com/sadop.net/wp-content/uploads/2020/05/encuentro.jpg?fit=400%2C400&ssl=1" group-title="(INTERES GRAL)" , ENCUENTRO
 https://wisp.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="(INTERES GRAL)" , IP
+https://wisp.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 
