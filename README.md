@@ -47,6 +47,8 @@ https://wisp.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS  opc 3 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN
 https://wisp.cdn.rcs.net.ar/mnp/espn/output.mpd
 
@@ -56,8 +58,17 @@ https://wisp.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/s1600/ver-espn-3-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 3
 https://wisp.cdn.rcs.net.ar/mnp/espn3/output.mpd
 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium
 https://wisp.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium opc 2
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium opc 3
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.adobomagazine.com/wp-content/uploads/2018/01/fox_sports_563.jpg?fit=563%2C296&ssl=1" group-title="(DEPORTES)" , FOX SPORTS
 https://wisp.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
