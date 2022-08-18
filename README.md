@@ -27,8 +27,40 @@ https://wisp.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , TELEFE
 https://wisp.cdn.rcs.net.ar/mnp/telefe/output.mpd
 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="(CABLE)", TELEFE  34.1
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="(CABLE)", TELEFE CORDOBA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0159
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065076342222450690/Yc9-8FPg_400x400.jpg" group-title="(CABLE)", TELEFE TUCUMAN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0316
+
+#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="(CABLE)", TELEFE ROSARIO 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0295
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065936054329507842/qisXOk-J_400x400.jpg" group-title="(CABLE)", TELEFE SALTA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0246
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412136623786053633/7l2cqJyJ.jpg" group-title="(CABLE)", TELEFE NEUQUEN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0235
+
+#EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1287857707756728322/DacVsXh-_400x400.jpg" group-title="(CABLE)", TELEFE SANTA FE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0301
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065218196142284801/bzqyl5rf_400x400.jpg" group-title="(CABLE)", TELEFE BAHIA BLANCA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0091
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE
 https://wisp.cdn.rcs.net.ar/mnp/el13/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="(CABLE)", 9LINK CHACO
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE
 https://wisp.cdn.rcs.net.ar/mnp/elnueve/output.mpd
@@ -237,5 +269,37 @@ https://wisp.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="(INTERES GRAL)" , IP
 https://wisp.cdn.rcs.net.ar/mnp/ip/output.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="(REGIONALES)", CANAL 50 MORTEROS
+https://coopmorteros.online/canal50/vivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="(REGIONALES)", CANAL 4 SAN FRANCISCO CORDOBA
+http://204.199.3.2/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477933395053273090/fox6Np7i_400x400.jpg" group-title="(REGIONALES)", RADIO RAFAELA DIGITAL
+https://streamcasthd.com:1936/radiorafaelatv1/radiorafaelatv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="(REGIONALES)", SANTA FE CANAL
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="(REGIONALES)", CANAL 20 VILLA MARIA CORDOBA
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPLI6e2ePtz2pCdC7u82Nq_z4MWKhTFujXslNh2MzDaoyRVHQLgJtG8DcUrxn3PoZUp0&usqp=CAU" group-title="(REGIONALES)", COONET BRINKMAN 
+https://coonet.online/hls_01/vivo.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
