@@ -263,6 +263,15 @@ https://wisp.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="(MUSICA)", CM
 https://wisp.cdn.rcs.net.ar/mnp/cm/output.mpd
 
+#EXTINF:-1  tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="(MUSICA)", MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1020255408_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/mmc/thumbh_20211119_205542.jpg" group-title="(MUSICA)", MMC
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396-2050-4e25-aa22-67ccf0791c45/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="(MUSICA)", FLASH
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
+
 
 
 
