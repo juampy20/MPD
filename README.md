@@ -43,9 +43,12 @@ https://wisp.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS
 https://wisp.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS opc 2 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS  opc 3 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
 
 
 
