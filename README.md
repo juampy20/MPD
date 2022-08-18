@@ -104,6 +104,9 @@ https://wisp.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png" group-title="(CINE)" , HBO 2
 https://wisp.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="(CINE)" , HBO PLUS
+https://wisp.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GGsnT8OYxqU/UJv5NAiymbI/AAAAAAAAXMo/3iytiCwX69s/s1600/isat.jpg" group-title="(CINE)" , ISAT
 https://wisp.cdn.rcs.net.ar/mnp/isat/output.mpd
 
