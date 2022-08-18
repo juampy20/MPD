@@ -126,7 +126,8 @@ https://wisp.cdn.rcs.net.ar/mnp/tcm/output.mpd
 https://wisp.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
 
-
+#EXTINF:-1 tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/02/15/352f4601-c86b-4a90-96ab-cf9cee9ae351/thumbnail/640x274/bdf6b7a51fb96db68b221f8b8a0be974/logo.jpg" group-title="(CINE)" , PARAMOUNT
+https://wisp.cdn.rcs.net.ar/mnp/paramount/output.mpd
 
 
 
