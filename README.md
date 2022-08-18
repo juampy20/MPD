@@ -223,6 +223,9 @@ https://wisp.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/w480/ver-boomerang-en-vivo.png" group-title="(INFANTIL)" , BOOMERANG
 https://wisp.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1543790983871094787/lqDAhS5-_400x400.jpg" group-title="(INFANTIL)", PAKAPAKA 
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
 
 
 
