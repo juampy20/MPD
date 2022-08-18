@@ -43,6 +43,10 @@ https://wisp.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS
 https://wisp.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS opc 2 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS  opc 3 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN
 https://wisp.cdn.rcs.net.ar/mnp/espn/output.mpd
 
