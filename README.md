@@ -64,6 +64,9 @@ https://wisp.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uNJcLj_R08s/Yf_LGMRS9gI/AAAAAAAAAXY/_V9xKblQkWMkuCniuSVVEu067qmHq9pzwCNcBGAsYHQ/w480/ver-fox-sports-3-en-vivo.jpg" group-title="(DEPORTES)" , FOX SPORTS 3
 https://wisp.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
+#EXTINF:-1 tvg-logo="https://www.diariotiempo.com.ar/wp-content/uploads/2022/01/Ver-TyC-Sports-en-vivo-online-GRATIS-780x470.jpg" group-title="(DEPORTES)" , TYC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
 
 
 
