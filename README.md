@@ -15,6 +15,8 @@ https://wisp.cdn.rcs.net.ar/mnp/a24/output.mpd
 #EXTINF:-1 tvg-logo="https://plushlamour.com.ar/wp-content/uploads/2021/01/canal3-1.png" group-title="(NOTICIAS)" , C26
 https://wisp.cdn.rcs.net.ar/mnp/canal26/output.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="(NOTICIAS)" , CNN
+https://wisp.cdn.rcs.net.ar/mnp/cnn/output.mpd
 
 
 
