@@ -73,6 +73,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0091
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE
 https://wisp.cdn.rcs.net.ar/mnp/el13/output.mpd
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE
+https://uvmundo.cdn.rcs.net.ar/mnp/el13/output.mpd
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="(CABLE)", 9LINK CHACO
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
