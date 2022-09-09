@@ -109,12 +109,7 @@ https://wisp.cdn.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium
 https://wisp.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium opc 2
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium opc 3
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.adobomagazine.com/wp-content/uploads/2018/01/fox_sports_563.jpg?fit=563%2C296&ssl=1" group-title="(DEPORTES)" , FOX SPORTS
