@@ -277,10 +277,9 @@ https://wisp.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mK0i3ykdm64/YsWuUjXHWBI/AAAAAAAAAnU/f33MQd-PX_g5cSgF3ob_GXON4bJ-lGQtgCNcBGAsYHQ/w480/ver-trutv-hd-en-vivo.jpg" group-title="(DOCUMENTAL)" , TRU TV
 https://wisp.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Liugr9oW0N8/YfxgBg8Sc9I/AAAAAAAAAWw/rkP5fEKkLJIUcvdkkVv00NO5ixrrdi44wCNcBGAsYHQ/w480/ver-history-channel-2-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY 2
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Liugr9oW0N8/YfxgBg8Sc9I/AAAAAAAAAWw/rkP5fEKkLJIUcvdkkVv00NO5ixrrdi44wCNcBGAsYHQ/w480/ver-history-channel-2-en-vivo.png" group-title="(DOCUMENTAL)" , HISTORY 
+https://wisp.cdn.rcs.net.ar/mnp/history/output.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0VkvQE3UBjtev1DqRKp790YxO4BS39eZt09CnGqjaT_rFXayvv-xAj_lM_nZqPHUFcDR8DI93uuEIVfIDKM4_gr8XjgqAFlXe3Ki3d_mCyUoRPGTZlfC5-cdaNLItQa_Oe4AyWzs5439p-Ber0or9q-XuJGlhWQyb3umvwD1i9p4KTR6sZXFjryB5/w480/ver-animal-planet-en-vivo.jpg" group-title="(DOCUMENTAL)" , ANIMAL PLANET
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 
 
 
